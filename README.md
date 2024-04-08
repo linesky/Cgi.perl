@@ -1,2 +1,3 @@
-# Cgi.perl
-Cgi sample on perl script
+# windows.command.line
+
+shell to windows easy code
