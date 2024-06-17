@@ -29,9 +29,7 @@ python type.py my.txt | python marg.py 10
 
 python type.py list.txt | python max.py
 
-
-
-
+python type.py my.txt | python more.py
 
 
 
