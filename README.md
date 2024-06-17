@@ -19,6 +19,10 @@ python seq $from $into $step | python do.py python echo.py
 
 python editor.py new.txt
 
+python type.py my.txt | python grep.py find
+
+python type.py my.txt | python head.py 10
+
 
 
 
