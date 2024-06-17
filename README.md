@@ -37,9 +37,12 @@ python type.py list.txt | python output.py
 
 python type.py list.txt | python sed.py "$toreplace" "$replace"
 
-python type.py list.txt | python short
+python type.py list.txt | python short.py
 
-python sleep 5
+python sleep.py 5
+
+python type.py list.txt | python sum.py
+
 
 
 
