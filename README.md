@@ -25,6 +25,9 @@ python type.py my.txt | python head.py 10
 
 python if.py "$a==$b" notepad my.txt
 
+python type.py my.txt | python marg.py 10
+
+
 
 
 
