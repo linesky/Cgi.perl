@@ -8,6 +8,11 @@ python type.py | python center.py 80
 
 python copy.py my.txt new.txt
 
+python echo.py $user
+
+
+python printf.py "hello %s" "$user"
+
 
 
 
