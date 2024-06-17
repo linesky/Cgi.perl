@@ -39,6 +39,8 @@ python type.py list.txt | python sed.py "$toreplace" "$replace"
 
 python type.py list.txt | python short
 
+python sleep 5
+
 
 
 
