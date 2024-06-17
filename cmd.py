@@ -26,6 +26,6 @@ def sline(argvs):
 		    return None		
 	
 	
-print("\x1bc\x1b[44;37m")	
+print("\x1bc\x1b[43;37m")	
 if 0==0:
 	sline("stdio")
