@@ -23,6 +23,8 @@ python type.py my.txt | python grep.py find
 
 python type.py my.txt | python head.py 10
 
+python if.py "$a==$b" notepad my.txt
+
 
 
 
