@@ -31,8 +31,7 @@ python type.py list.txt | python max.py
 
 python type.py my.txt | python more.py
 
-
-
+python type.py list.txt | python nl.py
 
 
 
