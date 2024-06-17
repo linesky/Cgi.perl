@@ -15,6 +15,9 @@ python printf.py "hello %s" "$user"
 
 python seq.py $from $into $step
 
+python seq $from $into $step | python do.py python echo.py
+
+python editor.py new.txt
 
 
 
