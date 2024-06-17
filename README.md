@@ -33,6 +33,9 @@ python type.py my.txt | python more.py
 
 python type.py list.txt | python nl.py
 
+python type.py list.txt | python output.py
+
+
 
 
 
