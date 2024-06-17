@@ -27,6 +27,9 @@ python if.py "$a==$b" notepad my.txt
 
 python type.py my.txt | python marg.py 10
 
+python type.py list.txt | python max.py
+
+
 
 
 
