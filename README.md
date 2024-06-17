@@ -48,6 +48,7 @@ python sleep.py 5
 python type.py list.txt | python sum.py
 
 
+python times.py python sleep 5
 
 
 
