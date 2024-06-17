@@ -35,6 +35,8 @@ python type.py list.txt | python nl.py
 
 python type.py list.txt | python output.py
 
+python type.py list.txt | python sed.py "$toreplace" "$replace"
+
 
 
 
