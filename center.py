@@ -24,7 +24,7 @@ def readstdin(arg1:int):
 
     
 print("\x1b[43;37m")
-readstdin(0)
+readstdin(int(sys.argv[1]))
 
 
 
