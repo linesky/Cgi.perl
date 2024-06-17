@@ -13,6 +13,10 @@ python echo.py $user
 
 python printf.py "hello %s" "$user"
 
+python seq.py $from $into $step
+
+
+
 
 
 
